@@ -1,0 +1,23 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/dash4/Documents/Unreal Projects/Kitchen_Frenzy/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/dash4/Documents/Unreal Projects/Kitchen_Frenzy/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/Users/dash4/Documents/Unreal Projects/Kitchen_Frenzy/Content/ThirdPerson/Blueprints/RunCharacter.uasset",
+				"C:/Users/dash4/Documents/Unreal Projects/Kitchen_Frenzy/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/dash4/Documents/Unreal Projects/Kitchen_Frenzy/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/XP/PHXXEM1BDBEH5FGYQNQIPZ.uasset",
+				"C:/Users/dash4/Documents/Unreal Projects/Kitchen_Frenzy/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"C:/Users/dash4/Documents/Unreal Projects/Kitchen_Frenzy/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/PQ/YTR4RK7PMX1TLVI1Q5EKBW.uasset",
+				"C:/Users/dash4/Documents/Unreal Projects/Kitchen_Frenzy/Content/ThirdPerson/Blueprints/BP_FloorTile.uasset",
+				"C:/Users/dash4/Documents/Unreal Projects/Kitchen_Frenzy/Content/ThirdPerson/Blueprints/BP_Blocker.uasset",
+				"C:/Users/dash4/Documents/Unreal Projects/Kitchen_Frenzy/Content/LevelPrototyping/Meshes/SM_Cube.uasset",
+				"C:/Users/dash4/Documents/Unreal Projects/Kitchen_Frenzy/Content/RunningMap.umap",
+				"C:/Users/dash4/Documents/Unreal Projects/Kitchen_Frenzy/Content/ThirdPerson/Maps/_GENERATED/dash4/Cylinder_1608E04D.uasset"
+			]
+		}
+	]
+}
