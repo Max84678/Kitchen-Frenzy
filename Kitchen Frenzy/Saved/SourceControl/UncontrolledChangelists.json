@@ -8,15 +8,26 @@
 				"C:/Users/dash4/Documents/Unreal Projects/Kitchen_Frenzy/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Users/dash4/Documents/Unreal Projects/Kitchen_Frenzy/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
 				"C:/Users/dash4/Documents/Unreal Projects/Kitchen_Frenzy/Content/ThirdPerson/Blueprints/RunCharacter.uasset",
-				"C:/Users/dash4/Documents/Unreal Projects/Kitchen_Frenzy/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
-				"C:/Users/dash4/Documents/Unreal Projects/Kitchen_Frenzy/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/XP/PHXXEM1BDBEH5FGYQNQIPZ.uasset",
 				"C:/Users/dash4/Documents/Unreal Projects/Kitchen_Frenzy/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
 				"C:/Users/dash4/Documents/Unreal Projects/Kitchen_Frenzy/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/PQ/YTR4RK7PMX1TLVI1Q5EKBW.uasset",
 				"C:/Users/dash4/Documents/Unreal Projects/Kitchen_Frenzy/Content/ThirdPerson/Blueprints/BP_FloorTile.uasset",
 				"C:/Users/dash4/Documents/Unreal Projects/Kitchen_Frenzy/Content/ThirdPerson/Blueprints/BP_Blocker.uasset",
 				"C:/Users/dash4/Documents/Unreal Projects/Kitchen_Frenzy/Content/LevelPrototyping/Meshes/SM_Cube.uasset",
 				"C:/Users/dash4/Documents/Unreal Projects/Kitchen_Frenzy/Content/RunningMap.umap",
-				"C:/Users/dash4/Documents/Unreal Projects/Kitchen_Frenzy/Content/ThirdPerson/Maps/_GENERATED/dash4/Cylinder_1608E04D.uasset"
+				"C:/Users/dash4/Documents/Unreal Projects/Kitchen_Frenzy/Content/ThirdPerson/Maps/_GENERATED/dash4/Cylinder_1608E04D.uasset",
+				"C:/Users/dash4/Documents/Unreal Projects/Kitchen_Frenzy/Content/LowPolyPack_Fruits_Vegetables/PACK_Fruits/SM/SM_PACK_Fruits_Watermelon_Whole.uasset",
+				"C:/Users/dash4/Documents/Unreal Projects/Kitchen_Frenzy/Content/ThirdPerson/Blueprints/Timmy/Ch09_1001_Diffuse.uasset",
+				"C:/Users/dash4/Documents/Unreal Projects/Kitchen_Frenzy/Content/ThirdPerson/Blueprints/Timmy/Ch09_1001_Glossiness.uasset",
+				"C:/Users/dash4/Documents/Unreal Projects/Kitchen_Frenzy/Content/ThirdPerson/Blueprints/Timmy/Ch09_1001_Normal.uasset",
+				"C:/Users/dash4/Documents/Unreal Projects/Kitchen_Frenzy/Content/ThirdPerson/Blueprints/Timmy/Ch09_1001_Specular.uasset",
+				"C:/Users/dash4/Documents/Unreal Projects/Kitchen_Frenzy/Content/ThirdPerson/Blueprints/Timmy/Ch09_body.uasset",
+				"C:/Users/dash4/Documents/Unreal Projects/Kitchen_Frenzy/Content/ThirdPerson/Blueprints/Timmy/RunCharacter.uasset",
+				"C:/Users/dash4/Documents/Unreal Projects/Kitchen_Frenzy/Content/ThirdPerson/Blueprints/Timmy/Timmy.uasset",
+				"C:/Users/dash4/Documents/Unreal Projects/Kitchen_Frenzy/Content/ThirdPerson/Blueprints/Timmy/Timmy_PhysicsAsset.uasset",
+				"C:/Users/dash4/Documents/Unreal Projects/Kitchen_Frenzy/Content/ThirdPerson/Blueprints/Timmy/Timmy_Skeleton.uasset",
+				"C:/Users/dash4/Documents/Unreal Projects/Kitchen_Frenzy/Content/ThirdPerson/Blueprints/Timmy/Fast_Run.uasset",
+				"C:/Users/dash4/Documents/Unreal Projects/Kitchen_Frenzy/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/dash4/Documents/Unreal Projects/Kitchen_Frenzy/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/XP/PHXXEM1BDBEH5FGYQNQIPZ.uasset"
 			]
 		}
 	]
